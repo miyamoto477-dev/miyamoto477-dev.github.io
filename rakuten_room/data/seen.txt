@@ -1,15 +1,22 @@
+adpentel:10000085
+beautypark2017:10002719
 cetaphil-official-gkk:10000149
+cetaphil-official-gkk:10000169
 drink-partner:10000297
 e-kitchen:10096368
 e-kurashi:10000628
 f222038-numazu:10000205
 f261009-kyoto:10001566
+fancl-shop:10009950
 ganentonya:10000079
+gracevally:10000008
+hitidear:10000173
 import-garden:10002895
 importshopaqua:10008009
 itoman:10000023
 kerastase-varie:10000005
 leep:10000908
+lesthemo:10000001
 lesthemo:10000002
 lgo-2023:10000063
 libertylife:10000500
@@ -17,6 +24,8 @@ mahou-soap:10000422
 milicute-himawari:10000017
 mpowjapan:10000823
 naturavie:10000173
+oga:10127229
+p-antiaging:10000046
 plywood:10018034
 pururunhime:10000311
 pururunhime:10000929
@@ -27,4 +36,5 @@ yminfo:10129100
 yokadoh-shop:10000257
 yumenomori:10000194
 yunth:10000000
+yuyanotemiyage:10000001
 zensho:10000019
