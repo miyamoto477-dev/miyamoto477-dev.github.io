@@ -1,3 +1,4 @@
+129-ink:10000002
 129-ink:10000018
 a-cueb:10000020
 adpentel:10000085
@@ -7,6 +8,7 @@ areti:10000009
 asukapainting:10000028
 beautypark2017:10002719
 beneru:10000014
+brightage-regain:10000021
 cetaphil-official-gkk:10000149
 cetaphil-official-gkk:10000169
 clinique:10000149
@@ -22,6 +24,7 @@ fancl-shop:10000036
 fancl-shop:10009950
 fujifilm-h:10000295
 fujifilm-h:10000296
+fukuroyuri:10000240
 g-and-a:10000264
 ganentonya:10000079
 garden-beauty:10000325
@@ -40,6 +43,7 @@ kerastase-varie:10000005
 kiehls:10000018
 kobe-beauty-labo:10000074
 kouseisyouten:10001776
+leapgrow:10000648
 leep:10000908
 lesthemo:10000001
 lesthemo:10000002
@@ -47,6 +51,7 @@ lesthemo:10000006
 lgo-2023:10000063
 libertylife:10000500
 lifejoy-shop:10000044
+lorelife:10000106
 luire:10004549
 luire:10004629
 mahou-soap:10000422
@@ -55,6 +60,7 @@ midorinomori:10000005
 mikirona:10000048
 mikirona:10000085
 milicute-himawari:10000017
+motebeauty:10000497
 mpowjapan:10000823
 naturalcosmetic:10001919
 naturavie:10000171
@@ -70,6 +76,7 @@ q1st:10000002
 riceforce:10000021
 rosette-shop:10000008
 saladcosmo:10001169
+salonmoon:10000013
 sasayama-bee:10000112
 shinnihonseiyaku:10000400
 shinnihonseiyaku:10000478
@@ -78,6 +85,8 @@ tenman-kosho-yakubo:10000000
 tescom-japan:10000036
 the-beautopia:10000002
 tonyatonya:10000050
+townland:10000033
+tsumugi-cosme:10000010
 tsurunishi:10000288
 tvert:10000045
 virginbeautyshop:10004490
@@ -85,6 +94,7 @@ yminfo:10129100
 yokadoh-shop:10000257
 yumenomori:10000194
 yunth:10000000
+yunth:10000028
 yuyanotemiyage:10000001
 yuyanotemiyage:10000526
 zensho:10000019
