@@ -2,10 +2,12 @@
 129-ink:10000018
 a-cueb:10000020
 adpentel:10000085
+akaran:10000001
 albumec:10000896
 apm24:10002135
 areti:10000009
 asukapainting:10000028
+azusa:10000180
 beautypark2017:10002719
 beneru:10000014
 brightage-regain:10000021
@@ -18,6 +20,7 @@ drink-partner:10000297
 e-kitchen:10096368
 e-kurashi:10000628
 ennshopstore:10000061
+etvos:10000722
 f222038-numazu:10000205
 f261009-kyoto:10001566
 fancl-shop:10000036
@@ -29,6 +32,7 @@ g-and-a:10000264
 ganentonya:10000079
 garden-beauty:10000325
 gracevally:10000008
+hagoogi:10000213
 higashi:10000066
 hitidear:10000173
 hoshinoya-bodyscrub:10000007
@@ -54,6 +58,7 @@ lifejoy-shop:10000044
 lorelife:10000106
 luire:10004549
 luire:10004629
+luire:10006143
 mahou-soap:10000422
 medlf:10000047
 midorinomori:10000005
@@ -61,6 +66,8 @@ mikirona:10000048
 mikirona:10000085
 milicute-himawari:10000017
 motebeauty:10000497
+motebeauty:10000839
+motebeauty:10001002
 mpowjapan:10000823
 naturalcosmetic:10001919
 naturavie:10000171
@@ -80,6 +87,7 @@ salonmoon:10000013
 sasayama-bee:10000112
 shinnihonseiyaku:10000400
 shinnihonseiyaku:10000478
+shinnihonseiyaku:10000479
 shirokuma-cosme:10000020
 tenman-kosho-yakubo:10000000
 tescom-japan:10000036
@@ -90,6 +98,7 @@ tsumugi-cosme:10000010
 tsurunishi:10000288
 tvert:10000045
 virginbeautyshop:10004490
+ya-man:10002535
 yminfo:10129100
 yokadoh-shop:10000257
 yumenomori:10000194
@@ -98,3 +107,4 @@ yunth:10000028
 yuyanotemiyage:10000001
 yuyanotemiyage:10000526
 zensho:10000019
+znewmark:10000597
