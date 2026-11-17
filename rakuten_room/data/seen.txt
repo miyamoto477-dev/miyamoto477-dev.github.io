@@ -3,6 +3,8 @@
 129-ink:10000036
 a-cueb:10000020
 adpentel:10000085
+agetuya:10000048
+ai-corp:10000035
 akaran:10000001
 akaran:10000019
 albumec:10000896
@@ -11,6 +13,7 @@ areti:10000009
 asukapainting:10000028
 asukapainting:10000039
 azusa:10000180
+babycresco:10000472
 baselab:10000308
 beautypark2017:10002719
 beneru:10000014
@@ -18,6 +21,7 @@ brightage-regain:10000021
 cetaphil-official-gkk:10000149
 cetaphil-official-gkk:10000169
 clinique:10000149
+comodesukoyaka:10000643
 dalba:10000011
 delishop:10000271
 drci-labo:10000244
@@ -32,6 +36,7 @@ f261009-kyoto:10001566
 fancl-shop:10000036
 fancl-shop:10009087
 fancl-shop:10009950
+felice1009:10000006
 fujifilm-h:10000295
 fujifilm-h:10000296
 fujifilm-h:10000333
@@ -55,7 +60,9 @@ katariyashop:10000441
 kerastase-varie:10000003
 kerastase-varie:10000005
 kiehls:10000018
+kiso:10000153
 kobe-beauty-labo:10000074
+kodawari-ichiban:10093260
 kouseisyouten:10001776
 kukuya:10000117
 leapgrow:10000267
@@ -69,6 +76,7 @@ libertylife:10000500
 lifejoy-shop:10000044
 lorelife:10000106
 lorelife:10000128
+luckyspread:10000001
 luire:10004549
 luire:10004629
 luire:10005100
@@ -76,6 +84,7 @@ luire:10006143
 mahou-soap:10000422
 marieanne-8:10000521
 medlf:10000047
+megu:10000054
 midorinomori:10000005
 mikirona:10000048
 mikirona:10000085
@@ -113,6 +122,7 @@ tescom-japan:10000036
 the-beautopia:10000002
 tonyatonya:10000050
 townland:10000033
+trade-abc:10012389
 tsumugi-cosme:10000010
 tsurunishi:10000288
 tvert:10000045
