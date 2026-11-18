@@ -1,15 +1,18 @@
 129-ink:10000002
 129-ink:10000018
 129-ink:10000036
+40s-skincare:10000159
 a-cueb:10000020
 adpentel:10000085
 agetuya:10000048
 ai-corp:10000035
+aibeaute:10000029
 akaran:10000001
 akaran:10000019
 albumec:10000896
 apm24:10002135
 areti:10000009
+areti:10000115
 asukapainting:10000028
 asukapainting:10000039
 azusa:10000180
@@ -74,6 +77,7 @@ lesthemo:10000006
 lgo-2023:10000063
 libertylife:10000500
 lifejoy-shop:10000044
+llic:10000782
 lorelife:10000106
 lorelife:10000128
 luckyspread:10000001
@@ -98,6 +102,8 @@ naturalcosmetic:10001919
 naturavie:10000171
 naturavie:10000173
 oga:10127229
+orlando:10000103
+otokukan:10000104
 p-antiaging:10000046
 p-antiaging:10000142
 plage-mb:10000070
@@ -106,8 +112,10 @@ plywood:10018034
 pururunhime:10000311
 pururunhime:10000929
 q1st:10000002
+q1st:10000177
 rasta:10027536
 riceforce:10000021
+risou:10000380
 rosette-shop:10000008
 saladcosmo:10001169
 salonmoon:10000013
@@ -117,6 +125,7 @@ shinnihonseiyaku:10000478
 shinnihonseiyaku:10000479
 shinnihonseiyaku:10000695
 shirokuma-cosme:10000020
+t-pro:10000053
 tenman-kosho-yakubo:10000000
 tescom-japan:10000036
 the-beautopia:10000002
@@ -131,6 +140,7 @@ wavewave:10000010
 ya-man:10002535
 yminfo:10129100
 yokadoh-shop:10000257
+yoshedirect:10000046
 yumenomori:10000194
 yunth:10000000
 yunth:10000028
