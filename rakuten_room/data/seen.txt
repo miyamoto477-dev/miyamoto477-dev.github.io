@@ -1,6 +1,7 @@
 129-ink:10000002
 129-ink:10000018
 129-ink:10000036
+40s-skincare:10000112
 40s-skincare:10000159
 a-cueb:10000020
 adpentel:10000085
@@ -17,6 +18,8 @@ areti:10000059
 areti:10000115
 asukapainting:10000028
 asukapainting:10000039
+auc-infuc:10000018
+auc-tokutoku:10062939
 azusa:10000180
 babycresco:10000472
 baselab:10000308
@@ -49,6 +52,7 @@ fancl-shop:10009950
 fastep:10000113
 felice1009:10000006
 fuchigami:10000345
+fuchigami:10000346
 fujifilm-h:10000295
 fujifilm-h:10000296
 fujifilm-h:10000333
@@ -60,6 +64,7 @@ ganentonya:10000079
 garden-beauty:10000325
 gjapan-beauty:10000907
 gjapan-beauty:10000986
+globalroad:10001719
 gracevally:10000008
 hagoogi:10000213
 hanakokokurumi:10000168
@@ -93,6 +98,7 @@ lgo-2023:10000063
 libertylife:10000500
 lifejoy-shop:10000044
 llic:10000782
+llic:10000843
 lorelife:10000106
 lorelife:10000128
 luckyspread:10000001
@@ -118,6 +124,7 @@ mpowjapan:10000823
 naturalcosmetic:10001919
 naturavie:10000171
 naturavie:10000173
+nemuri-seisakusyo:10000029
 nissoplus:10000002
 nissoplus:10000007
 oga:10127229
@@ -133,6 +140,7 @@ pururunhime:10000929
 q1st:10000002
 q1st:10000177
 rasta:10027536
+realstyle4u:10000903
 realstyle4u:10002388
 rennkou-syouji:10020183
 riceforce:10000021
@@ -147,6 +155,7 @@ shinnihonseiyaku:10000478
 shinnihonseiyaku:10000479
 shinnihonseiyaku:10000695
 shirokuma-cosme:10000020
+smc:10000368
 suisosum-shop:10000001
 sumisumiko:10000200
 t-pro:10000053
@@ -166,6 +175,7 @@ virginbeautyshop:10004490
 wavewave:10000010
 ya-man:10002320
 ya-man:10002535
+yancomstore:10002085
 yminfo:10129100
 yokadoh-shop:10000257
 yoshedirect:10000046
