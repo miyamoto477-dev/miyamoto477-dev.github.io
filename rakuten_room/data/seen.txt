@@ -11,6 +11,7 @@ aibeaute:10000029
 akaran:10000001
 akaran:10000019
 albumec:10000896
+amelion:10000115
 apm24:10002135
 apm24:10002365
 areti:10000009
@@ -31,7 +32,9 @@ beneru:10000014
 brightage-regain:10000021
 cetaphil-official-gkk:10000149
 cetaphil-official-gkk:10000169
+chashoan:10000979
 clinique:10000149
+cocofashop:10000031
 coconial:10005056
 comodesukoyaka:10000643
 comodesukoyaka:10000746
@@ -53,11 +56,13 @@ fastep:10000113
 felice1009:10000006
 fuchigami:10000345
 fuchigami:10000346
+fuchigami:10000348
 fujifilm-h:10000295
 fujifilm-h:10000296
 fujifilm-h:10000333
 fukuroyuri:10000240
 futon-outlet:10001102
+futon-outlet:10002239
 g-and-a:10000264
 ganentonya:10000078
 ganentonya:10000079
@@ -87,6 +92,8 @@ kobe-beauty-labo:10000074
 kodawari-ichiban:10093260
 kouseisyouten:10001776
 kukuya:10000117
+lasoie:10000000
+latuna:10000005
 leapgrow:10000267
 leapgrow:10000320
 leapgrow:10000648
@@ -107,6 +114,7 @@ luire:10004629
 luire:10005100
 luire:10006143
 mahou-soap:10000422
+makuraken:10000001
 marieanne-8:10000521
 medlf:10000047
 megu:10000054
@@ -157,6 +165,7 @@ shinnihonseiyaku:10000695
 shirokuma-cosme:10000020
 smc:10000368
 suisosum-shop:10000001
+suisosum-shop:10000192
 sumisumiko:10000200
 t-pro:10000053
 takeuchi-labo:10000074
@@ -171,6 +180,7 @@ tsumugi-cosme:10000010
 tsurunishi:10000288
 tvert:10000045
 ukaofficial:10000000
+ultora:10000033
 virginbeautyshop:10004490
 wavewave:10000010
 ya-man:10002320
