@@ -57,12 +57,14 @@ felice1009:10000006
 fuchigami:10000345
 fuchigami:10000346
 fuchigami:10000348
+fuchigami:10000417
 fujifilm-h:10000295
 fujifilm-h:10000296
 fujifilm-h:10000333
 fukuroyuri:10000240
 futon-outlet:10001102
 futon-outlet:10002239
+fuwawa01:10000431
 g-and-a:10000264
 ganentonya:10000078
 ganentonya:10000079
@@ -79,10 +81,14 @@ hitidear:10000173
 honwa:10000010
 hoshinoya-bodyscrub:10000007
 houseofrose-shop:10000037
+import-garden:10002770
 import-garden:10002895
 importshopaqua:10008009
 itoman:10000023
 itsube-souken:10000266
+jewlinge:10006247
+k-kitchen:10113653
+k222:10000018
 katariyashop:10000441
 kerastase-varie:10000003
 kerastase-varie:10000005
@@ -128,6 +134,7 @@ motebeauty:10000497
 motebeauty:10000839
 motebeauty:10001002
 mottole-shop:10000182
+mottole-shop:10000212
 mpowjapan:10000823
 naturalcosmetic:10001919
 naturavie:10000171
@@ -150,6 +157,7 @@ q1st:10000177
 rasta:10027536
 realstyle4u:10000903
 realstyle4u:10002388
+relieved-life:10000005
 rennkou-syouji:10020183
 riceforce:10000021
 risou:10000380
@@ -166,6 +174,7 @@ shirokuma-cosme:10000020
 smc:10000368
 suisosum-shop:10000001
 suisosum-shop:10000192
+suisosum-shop:10000193
 sumisumiko:10000200
 t-pro:10000053
 takeuchi-labo:10000074
@@ -186,6 +195,7 @@ wavewave:10000010
 ya-man:10002320
 ya-man:10002535
 yancomstore:10002085
+yasuhiko:10012229
 yminfo:10129100
 yokadoh-shop:10000257
 yoshedirect:10000046
