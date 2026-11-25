@@ -8,6 +8,7 @@ adpentel:10000085
 agetuya:10000048
 ai-corp:10000035
 aibeaute:10000029
+ajigen1994:10000020
 akaran:10000001
 akaran:10000019
 albumec:10000896
@@ -87,6 +88,7 @@ importshopaqua:10008009
 itoman:10000023
 itsube-souken:10000266
 jewlinge:10006247
+k-home:10062336
 k-kitchen:10113653
 k222:10000018
 katariyashop:10000441
@@ -98,6 +100,7 @@ kobe-beauty-labo:10000074
 kodawari-ichiban:10093260
 kouseisyouten:10001776
 kukuya:10000117
+kyowashokken:10000091
 lasoie:10000000
 latuna:10000005
 leapgrow:10000267
@@ -112,6 +115,7 @@ libertylife:10000500
 lifejoy-shop:10000044
 llic:10000782
 llic:10000843
+llic:10000923
 lorelife:10000106
 lorelife:10000128
 luckyspread:10000001
@@ -142,6 +146,7 @@ naturavie:10000173
 nemuri-seisakusyo:10000029
 nissoplus:10000002
 nissoplus:10000007
+nissoplus:10000237
 oga:10127229
 orlando:10000103
 otokukan:10000104
@@ -151,6 +156,7 @@ plage-mb:10000070
 plywood:10002234
 plywood:10018034
 pururunhime:10000311
+pururunhime:10000926
 pururunhime:10000929
 q1st:10000002
 q1st:10000177
@@ -162,6 +168,7 @@ rennkou-syouji:10020183
 riceforce:10000021
 risou:10000380
 rosette-shop:10000008
+rush-mall:10012650
 saladcosmo:10001169
 salonmoon:10000013
 salua-eyemaskstore:10000000
@@ -176,12 +183,15 @@ suisosum-shop:10000001
 suisosum-shop:10000192
 suisosum-shop:10000193
 sumisumiko:10000200
+t-interior:10000230
 t-pro:10000053
 takeuchi-labo:10000074
+tempostar:10000001
 tenman-kosho-yakubo:10000000
 tescom-japan:10000036
 the-beautopia:10000002
 tokiiro64:10000002
+tonyatonya:10000021
 tonyatonya:10000050
 townland:10000033
 trade-abc:10012389
