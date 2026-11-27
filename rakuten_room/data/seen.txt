@@ -13,6 +13,7 @@ akaran:10000001
 akaran:10000019
 albumec:10000896
 amelion:10000115
+amuood:10001170
 apm24:10002135
 apm24:10002365
 areti:10000009
@@ -71,10 +72,12 @@ fuwawa01:10000431
 g-and-a:10000264
 ganentonya:10000078
 ganentonya:10000079
+ganentonya:10000159
 garden-beauty:10000325
 gjapan-beauty:10000907
 gjapan-beauty:10000986
 globalroad:10001719
+goodlifegoooods:10000000
 gracevally:10000008
 hagoogi:10000213
 hanakokokurumi:10000168
@@ -86,6 +89,7 @@ hoshinoya-bodyscrub:10000007
 houseofrose-shop:10000037
 import-garden:10002770
 import-garden:10002802
+import-garden:10002858
 import-garden:10002895
 importshopaqua:10008009
 itoman:10000023
@@ -111,12 +115,14 @@ leapgrow:10000267
 leapgrow:10000320
 leapgrow:10000648
 leep:10000908
+leep:10001067
 lesthemo:10000001
 lesthemo:10000002
 lesthemo:10000006
 lgo-2023:10000063
 libertylife:10000500
 lifejoy-shop:10000044
+lipaco:10000221
 llic:10000782
 llic:10000843
 llic:10000923
@@ -144,6 +150,7 @@ motebeauty:10001002
 mottole-shop:10000182
 mottole-shop:10000212
 mpowjapan:10000823
+mugi-teshi:10000004
 nagomisabo:10001629
 naturalcosmetic:10001919
 naturavie:10000171
@@ -152,6 +159,7 @@ nemuri-seisakusyo:10000029
 next-online:10000242
 nissoplus:10000002
 nissoplus:10000007
+nissoplus:10000022
 nissoplus:10000237
 oga:10127229
 orlando:10000103
@@ -206,6 +214,7 @@ tonyatonya:10000050
 townland:10000033
 trade-abc:10012389
 tsumugi-cosme:10000010
+tsurunishi:10000265
 tsurunishi:10000288
 tvert:10000045
 ukaofficial:10000000
@@ -217,6 +226,7 @@ ya-man:10002535
 yancomstore:10002085
 yasuhiko:10012229
 yminfo:10129100
+ymsk:10000461
 yokadoh-shop:10000257
 yoshedirect:10000046
 you2han:10001336
