@@ -29,6 +29,7 @@ babycresco:10000472
 baselab:10000308
 baselab:10000361
 baselab:10000410
+baumjapan:10000010
 beautypark2017:10002301
 beautypark2017:10002719
 beneru:10000014
@@ -70,6 +71,7 @@ futon-outlet:10001102
 futon-outlet:10002239
 fuwawa01:10000431
 g-and-a:10000264
+ganentonya:10000075
 ganentonya:10000078
 ganentonya:10000079
 ganentonya:10000159
@@ -82,8 +84,10 @@ gracevally:10000008
 hagoogi:10000213
 hanakokokurumi:10000168
 haramaki:10000001
+hc7:12451572
 higashi:10000066
 hitidear:10000173
+hitoiro:10002956
 honwa:10000010
 hoshinoya-bodyscrub:10000007
 houseofrose-shop:10000037
@@ -111,6 +115,7 @@ kurashi-genson:10000010
 kyowashokken:10000091
 lasoie:10000000
 latuna:10000005
+latuna:10000022
 leapgrow:10000267
 leapgrow:10000320
 leapgrow:10000648
@@ -173,6 +178,7 @@ pururunhime:10000311
 pururunhime:10000474
 pururunhime:10000926
 pururunhime:10000929
+pururunhime:10000930
 q1st:10000002
 q1st:10000177
 rasta:10027536
@@ -195,6 +201,7 @@ shinnihonseiyaku:10000479
 shinnihonseiyaku:10000695
 shirokuma-cosme:10000020
 shokunohakobune:10000189
+slow-foods:10000958
 smc:10000368
 suisosum-shop:10000001
 suisosum-shop:10000192
@@ -216,9 +223,11 @@ trade-abc:10012389
 tsumugi-cosme:10000010
 tsurunishi:10000265
 tsurunishi:10000288
+tsurunishi:10000666
 tvert:10000045
 ukaofficial:10000000
 ultora:10000033
+valx:10000057
 virginbeautyshop:10004490
 wavewave:10000010
 ya-man:10002320
@@ -234,6 +243,7 @@ yukyostore:10000025
 yumenomori:10000194
 yunth:10000000
 yunth:10000028
+yuukiseiyaku:10001090
 yuyanotemiyage:10000001
 yuyanotemiyage:10000526
 zensho:10000019
